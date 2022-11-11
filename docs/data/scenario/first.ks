@@ -1,11 +1,11 @@
 *start
 
-[title name="今日を乗り切れるか"]
+[title name="何を諦めるか"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「今日苦しむか、明日苦しむか」[l][r]
+「何を諦めるか」[l][r]
 
 非常にまずい。[l][r]
 
